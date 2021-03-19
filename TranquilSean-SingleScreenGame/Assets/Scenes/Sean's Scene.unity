@@ -1195,7 +1195,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1000455860, guid: b529d472e023a2f44bce3475e0c0b462, type: 3}
       propertyPath: moveDir
-      value: 0.6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1000455860, guid: b529d472e023a2f44bce3475e0c0b462, type: 3}
       propertyPath: patrolLeft
